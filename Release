@@ -1,0 +1,15 @@
+Origin: Example Repository
+Label: Hello
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64
+Components: main
+Description: An example software repository
+Date: Sat, 31 Jul 2021 11:03:03 +0000
+MD5Sum:
+51228c49f6f2b1748aba8fa4736fbf30
+SHA1:
+a1f646e1e3c2decb7cd3d2ccbfa6765be5bc0aef
+SHA256:
+3ab933eef8cf551d1db14af6351aaf62fa483c400ce533521f7bb572a90c0244
