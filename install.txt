@@ -1,0 +1,5 @@
+wget -qO - https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
+
+curl -s --compressed "https://jczz.github.io/apt-appapt/KEY.gpg" | sudo apt-key add -
+sudo curl -s --compressed -o /etc/apt/sources.list.d/my_list_file.list " https://jczz.github.io/apt-appapt/my_list_file.list"
+sudo apt update
