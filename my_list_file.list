@@ -1,1 +1,1 @@
-deb  https://github.com/JCzz/apt-appapt.git
+deb  https://github.com/JCzz/apt-appapt.git unstable main contrib non-free
