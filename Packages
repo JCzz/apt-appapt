@@ -1,13 +1,13 @@
-Package: hello-appapt
+Package: hello-world
 Version: 0.0.1
 Architecture: arm64
 Maintainer: example <example@example.com>
 Depends: libc6
-Filename: ./apt-appapt/apt-appapt.deb
-Size: 2604752
-MD5sum: f9a559fed9746544091af4167a102173
-SHA1: 7bf5fd601225f825ea44c9be3ae2518485c3572b
-SHA256: 2bf1cbf8154a3ba421fe9bc4bf607231d3a811e126c71985e609c9949b56df5c
+Filename: ./hello-world.deb
+Size: 3966700
+MD5sum: cbf490c798a813969e906ed10f46c39c
+SHA1: a5a8a8a601cfa6c40dac007e5dc5925a6d3c46c5
+SHA256: 5c48d36b275547ccd8adeab9a775062466ec02de0852ec0859dc2737268b2baa
 Homepage: http://example.com
 Description: A program that prints hello
 

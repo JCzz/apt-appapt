@@ -1,4 +1,7 @@
 #!/bin/zsh
 
-dpkg-deb -b ./arm64
-dpkg-deb --contents ./arm64
+cd ..
+dpkg-deb -b ./hello-world
+# dpkg-deb --contents ./arm64
+cp ./hello-world.deb ./hello-world
+cd ./hello-world
